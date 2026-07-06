@@ -337,7 +337,7 @@ export const Header: React.FC = () => {
           </div>
           <div style={{ display: 'flex', gap: '20px', alignItems: 'flex-end' }}>
             <a href="https://www.linkedin.com/in/akshattsinha/" target="_blank" rel="noreferrer" style={{ fontSize: '13px', color: 'var(--text-muted)' }}>LN</a>
-            <a href="https://github.com/akshattsinha/akshattsinha" target="_blank" rel="noreferrer" style={{ fontSize: '13px', color: 'var(--text-muted)' }}>GH</a>
+            <a href="https://github.com/akshattsinha" target="_blank" rel="noreferrer" style={{ fontSize: '13px', color: 'var(--text-muted)' }}>GH</a>
             <a href="https://www.instagram.com/akshattsinha/" target="_blank" rel="noreferrer" style={{ fontSize: '13px', color: 'var(--text-muted)' }}>IG</a>
           </div>
         </div>
