@@ -1,32 +1,62 @@
-# React + TypeScript + Vite
+Hi, I'm Akshat Sinha 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+💻 Computer Science Engineering Student
+🚀 Full-Stack Developer | AI/ML Enthusiast
+📍 India
 
-Currently, two official plugins are available:
+I build full-stack applications, developer tools, and AI-powered systems.
+Currently focused on improving my DSA, backend development, system design,
+and building production-ready projects.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
 
-## React Compiler
+Languages:
+Java • Python • C • JavaScript • TypeScript
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Frontend:
+React • Next.js • Tailwind CSS
 
-## Expanding the Oxlint configuration
+Backend:
+Node.js • Flask • REST APIs
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+Databases:
+MySQL • PostgreSQL • SQLite • Prisma
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+Tools:
+Git • GitHub • Docker • Vercel
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## 🚀 Featured Projects
+
+### Merchant Risk Sentinel
+AI-powered fraud detection and investigation platform.
+
+- Fraud risk scoring
+- Transaction analysis
+- Investigation dashboard
+- REST API
+- Machine learning pipeline
+
+Tech: Python • ML • FastAPI/Flask • Streamlit
+
+### Datara
+Large-scale people search system powered by Apache Solr.
+
+- 10M+ records
+- Full-text search
+- Flask API
+- Search interface
+
+Tech: Python • Flask • Apache Solr • JavaScript
+
+### GreenWatt-AI
+AI-powered energy monitoring and analytics dashboard.
+
+Tech: React • TypeScript • Prisma • PostgreSQL
+
+## 📊 GitHub Stats
+
+## 📫 Connect With Me
+
+LinkedIn: ...
+Portfolio: ...
+Email: ...
