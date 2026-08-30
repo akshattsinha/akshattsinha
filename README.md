@@ -57,5 +57,5 @@ Tech: React • TypeScript • Prisma • PostgreSQL
 
 ## 📫 Connect With Me
 
-LinkedIn: [...](https://www.linkedin.com/in/akshattsinha/)
+LinkedIn: (https://www.linkedin.com/in/akshattsinha/)
 Email: sinhaakshat01@gmail.com
